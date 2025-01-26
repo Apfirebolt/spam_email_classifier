@@ -7,6 +7,17 @@
 
 This application uses machine learning techniques to classify emails as spam or not spam. It leverages the Scikit-learn library for building the classification model, pandas for data manipulation, and PyQt5 for the graphical user interface.
 
+## Screenshots
+
+The basic UI showing Email form.
+
+![Screenshot 1](screenshots/1.png)
+
+The next screenshots show emails which are classified as spam and not spam.
+
+![Screenshot 2](screenshots/2.png)
+![Screenshot 3](screenshots/3.png)
+
 ## Features
 
 - Train a spam classifier using a dataset of labeled emails
